@@ -20,7 +20,7 @@ class DaftarMatakuliahController extends \yii\web\Controller
     {
         return $this->render('delete');
     }
-    public function actionHaha()
+    public function actionHahaha()
     {
         return $this->render('haha');
     }
